@@ -4,7 +4,7 @@
  * <header></header>
  * <nav></nav>
  * <section>
-     <aside></aside>	
-     <article></article> 
-   </section>
+ *   <aside></aside>	
+ *  <article></article> 
+ *  </section>
  * <footer></footer>
